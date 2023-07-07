@@ -1,0 +1,2 @@
+This project focuses on analyzing the hiring process of a multinational corporation (MNC), specifically inspired by companies such as Google. As the Lead Data Analyst, the objective is to uncover major underlying trends and insights about the company's hiring process. By exploring factors such as the number of rejections, interviews conducted, types of jobs, and vacancies, we aim to provide valuable information that will assist the company in optimizing its hiring process for the future.
+The Excel sheet on which the project was done is also added.
